@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thooey.github.io/sitemap.xml
+Sitemap: https://taranhooey.com/sitemap.xml
