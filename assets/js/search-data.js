@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Taran Hooey", "_blank");
+          window.open("https://www.linkedin.com/in/taran-hooey-a74404211", "_blank");
         },
       },{
       id: 'light-theme',
