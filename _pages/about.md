@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: 
 
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Taran, and I am a mechanical engineering student at McGill University. I have discovered that I love music and I love building, so for me it's natural to combine the two. Check out some of my builds and projects below. Enjoy!
+My name is Taran, and I am a mechanical engineering student at McGill University. I have discovered that I love music and I love building, so for me it's natural to combine the two. Check out some of my builds and projects. Enjoy!
